@@ -1,0 +1,35 @@
+
+ 
+ 
+ #rouge{
+    margin: auto;
+        
+    width: 200px;
+    height: 200px;
+    background-color: red;
+ }
+ #vert{
+    
+    margin: auto;
+    
+    width: 200px;
+    height: 200px;
+    background-color: green;
+ }
+
+ #bleu{
+    margin: auto;
+    
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+ }
+
+ #jaune{
+    margin: auto;
+    
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+ }
+
